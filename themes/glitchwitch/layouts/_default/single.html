@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+	<h1 class="post-title">{{.Title}}</h1>
+		<div class="post-content">{{.Content}}</div>
+	<div class="post-bottom-div">
+<pre class="home-color">--------------------------------------------------------------------------</pre>
+	<a href="{{ .Site.BaseURL }}" class="back-button">[back]</a>
+	</div>
+
+
+{{ end }}

@@ -1,0 +1,5 @@
+{{ define "main" }}
+<pre class="main-pre home-color">n1x@nyxus:/nihil/content/posts⛧ tree -Dt
+.
+|
+{{ range .Data.Pages.ByDate.Reverse }}<pre class="main-pre">|- [ {{ .Date.Format "2 Jan 2006 15:04" }} ] <a href="{{ .Permalink }}">{{ .File.BaseFileName }}.md</a></pre>{{ end }}{{ end }}

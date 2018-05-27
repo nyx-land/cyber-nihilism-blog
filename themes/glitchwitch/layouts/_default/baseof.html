@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html style="background-color:black">
+<head>
+<link rel="stylesheet" type='text/css' href="{{ .Site.BaseURL }}css/style.css"/>
+<link rel="stylesheet" type='text/css' href="{{ .Site.BaseURL }}/css/style.css"/>
+<link rel="icon" sizes="any" href="{{ .Site.BaseURL }}/favicon.ico">
+<meta name="description" content="{{ .Description }}">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<meta name="viewport" content="width=device-width">
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+<script type="text/javascript">
+    $('html').addClass('hidden');
+    $(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
+          $('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
+         });
+   </script>
+
+</head>
+
+<body>
+
+	<!-- global header -->
+
+	{{ partial "header.html" . }}
+
+<!-- list of posts -->
+   {{ block "main" . }}
+
+   {{ end }}
+   </div>
+   
+	<!-- global footer -->
+
+	{{ partial "footer.html" . }}
+
+   </body>
+</html>

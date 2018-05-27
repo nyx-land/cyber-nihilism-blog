@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  max-width: 900px;
+  margin: auto;
+  margin-top: 10px
+}
+
+a {
+  color: #e60073;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.main-pre {
+  margin: 0 0 0 0;
+}
+
+.header {
+  
+}
+
+.home-color {
+  color: #e60073;
+  border-color: #e60073;
+}
+
+.post-content,.post-title,.post-meta,.back-button {
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #e60073;
+}
+
+.post-content {
+  font-size: .9rem;
+}
+
+.post-title {
+  font-size: 1.4rem;
+}
