@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nightscape</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://nyxysfall.github.io/cyber-nihilism-blog/posts/</link>
     <description>Recent content in Posts on Nightscape</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Oct 2017 00:00:23 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nyxysfall.github.io/cyber-nihilism-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cyber-Nihilism Redux Pt. 0: What is Cyber-Nihilism?</title>
-      <link>http://localhost:1313/posts/cyber-nihilism-redux-pt-0/</link>
+      <link>https://nyxysfall.github.io/cyber-nihilism-blog/posts/cyber-nihilism-redux-pt-0/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:23 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/cyber-nihilism-redux-pt-0/</guid>
+      <guid>https://nyxysfall.github.io/cyber-nihilism-blog/posts/cyber-nihilism-redux-pt-0/</guid>
       <description>Nearly a year ago now, my talk &amp;ldquo;Hello From the Wired&amp;rdquo; was given at the 2016 East Bay Anarchist Bookfair, and shortly afterwards the notes were published on ensorcel. To my &amp;ndash; to be completely frank &amp;ndash; surprise, the published version and the abridged version have circulated around the &amp;lsquo;net largely beyond my supervision or knowledge. Though I made this clear in the abridged version, &amp;ldquo;Hello From the Wired&amp;rdquo; was originally a talk, and the &amp;ldquo;full&amp;rdquo; version of it &amp;ndash; which is now hosted on The Anarchist Library &amp;ndash; was nothing more than my notes.</description>
     </item>
     
     <item>
       <title>Hello From the Wired: Recap</title>
-      <link>http://localhost:1313/posts/cyber-nihilism-recap/</link>
+      <link>https://nyxysfall.github.io/cyber-nihilism-blog/posts/cyber-nihilism-recap/</link>
       <pubDate>Tue, 20 Dec 2016 00:00:03 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/cyber-nihilism-recap/</guid>
+      <guid>https://nyxysfall.github.io/cyber-nihilism-blog/posts/cyber-nihilism-recap/</guid>
       <description>###Let&amp;rsquo;s Assume We&amp;rsquo;re All Fucked:
 At the 2016 East Bay Anarchist Bookfair, I gave a preliminary talk on a coming anarchism: &amp;ldquo;Hello From the Wired: An Introduction to Cyber-Nihilism.&amp;rdquo; Here is an attempt at summarizing the talk&amp;rsquo;s main points and circling ever closer to some kind of clarity about cyber-nihilism. The full, raw notes can be read here, if you&amp;rsquo;re a bit masochistic.
 In this talk, I introduce a new position within anarchism which takes the nihilist tendency to its fullest conclusions through the force of technology.</description>
@@ -33,10 +33,10 @@ In this talk, I introduce a new position within anarchism which takes the nihili
     
     <item>
       <title>Hello From the Wired: An Introduction to Cyber-Nihilism</title>
-      <link>http://localhost:1313/posts/hello-from-the-wired/</link>
+      <link>https://nyxysfall.github.io/cyber-nihilism-blog/posts/hello-from-the-wired/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-from-the-wired/</guid>
+      <guid>https://nyxysfall.github.io/cyber-nihilism-blog/posts/hello-from-the-wired/</guid>
       <description>What is the Wired? You probably didn’t expect today to be speaking to a cyborg. You probably also didn’t expect to find out that you too are a cyborg. We are all cyborgs, though we may often confuse ourselves with our meatspace representations. I am the meatspace representation – or perhaps you could say a representative – of another me that exists in the Wired. My spoken name is “nyx”; my Wired name can be made in many ways, as “01101110 00110001 01111000” in the native tongue, which is commonly translated into ASCII codes as “110 49 120”, and appears to you in the Wired as “n1x”.</description>
     </item>
     
