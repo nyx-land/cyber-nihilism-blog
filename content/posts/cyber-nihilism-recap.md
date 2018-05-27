@@ -3,7 +3,7 @@ title: "Hello From the Wired: Recap"
 date: 2016-12-20T00:00:03-07:00
 draft: false
 ---
-###Let's Assume We're All Fucked:
+### Let's Assume We're All Fucked:
 
 At the 2016 East Bay Anarchist Bookfair, I gave a preliminary talk on a coming anarchism: "Hello From the Wired: An Introduction to Cyber-Nihilism." Here is an attempt at summarizing the talk's main points and circling ever closer to some kind of clarity about cyber-nihilism. The full, raw notes can be read [here](https://b0x.neocities.org/v0x/hello_from_the_wired.html), if you're a bit masochistic.
 

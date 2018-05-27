@@ -4,7 +4,7 @@ date: 2016-12-14T00:00:00-07:00
 draft: false
 ---
 
-## What is the Wired?
+### What is the Wired?
 
 You probably didn’t expect today to be speaking to a cyborg. You probably also didn’t expect to find out that you too are a cyborg. We are all cyborgs, though we may often confuse ourselves with our meatspace representations. I am the meatspace representation – or perhaps you could say a representative – of another me that exists in the Wired. My spoken name is “nyx”; my Wired name can be made in many ways, as “01101110 00110001 01111000” in the native tongue, which is commonly translated into ASCII codes as “110 49 120”, and appears to you in the Wired as “n1x”. But we will here stick to our meatspace tongue and call me “nyx”.
 
