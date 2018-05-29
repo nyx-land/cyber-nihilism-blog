@@ -21,6 +21,10 @@ hr {
   border-color: #e60073;
 }
 
+pre {
+  font-family: monospace; 
+}
+
 .main-pre {
   margin: 0 0 0 0;
 }
