@@ -1,8 +1,23 @@
+/* inconsolata-regular - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: url('css/fonts/inconsolata-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'),
+       url('css/fonts/inconsolata-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('css/fonts/inconsolata-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('css/fonts/inconsolata-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('css/fonts/inconsolata-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('css/fonts/inconsolata-v16-latin-regular.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+
 body {
   background-color: black;
   max-width: 900px;
   margin: auto;
   margin-top: 10px
+  font-family: 'Inconsolata', monospace;
 }
 
 a {
@@ -21,10 +36,6 @@ hr {
   border-color: #e60073;
 }
 
-pre {
-  font-family: "Lucida Console", Monaco, monospace; 
-}
-
 .main-pre {
   margin: 0 0 0 0;
 }
@@ -39,7 +50,6 @@ pre {
 }
 
 .post-content,.post-title,.post-meta,.back-button {
-  font-family: "Lucida Console", Monaco, monospace;
   color: #e60073;
 }
 
