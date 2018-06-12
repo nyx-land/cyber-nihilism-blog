@@ -36,12 +36,12 @@ hr {
   border-color: #e60073;
 }
 
-.main-pre {
-  margin: 0 0 0 0;
+pre {
+  white-space: pre;
 }
 
-.header {
-  
+.main-pre {
+  margin: 0 0 0 0;
 }
 
 .home-color {
