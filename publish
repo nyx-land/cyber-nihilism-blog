@@ -1,32 +1,35 @@
 #!/bin/bash
 
+scndrepo="/home/n1x/Documents/writings/nihil"
+
 # Move all drafts into the drafts folder
 for filename in content/drafts/*; do
 	if grep -q "draft: false" $filename; then
 		echo "Moving draft to posts"
 		mv $filename content/posts
 		echo
-	else
+	else 
 		echo "No drafts to move."
 		echo
 	fi
 done
 
 # Check for changes
-DIFF=$(diff content/posts/ ~/Documents/writings/nyxus/posts/)
+DIFF=$(diff content/posts/ $scndrepo) 
 
 # Copy the everything into the writings repository if there were changes
 if ["$DIFF" = ""]; then
 	echo "Nothing to copy to writings repository"
 	echo
-else
+else 
 	echo "Moving posts to the writings repository..."
-	rsync -avz --delete content/posts ~/Documents/writings/nyxus
-	git -C ~/Documents/writings add .
+	rsync -avz --delete content/posts/ $scndrepo
+	scndrepo="/home/n1x/Documents/writings"
+	git -C $scndrepo add .
 	echo "Add a git commit: "
 	read commesg1
-	git -C ~/Documents/writings commit -m "$commesg1"
-	git -C ~/Documents/writings push -u origin master
+	git -C $scndrepo commit -m "$commesg1"
+	git -C $scndrepo push -u origin master
 fi
 
 # Make changes to live site
@@ -36,9 +39,8 @@ echo
 
 # If yes then commit to site repo
 if [ "$answer" = "y" ] || [ "$answer" = "Y" ] ; then
-	hugo
 	git add .
-	echo "Add a git commit: "
+	echo "Add a git commit: " 
 	read commesg
 	echo
 	git commit -m "$commesg"

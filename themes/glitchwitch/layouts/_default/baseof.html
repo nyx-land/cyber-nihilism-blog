@@ -1,7 +1,6 @@
 <DOCTYPE html>
 <html style="background-color:black">
 <head>
-<link rel="stylesheet" type='text/css' href="{{ .Site.BaseURL }}css/style.css"/>
 <link rel="stylesheet" type='text/css' href="{{ .Site.BaseURL }}/css/style.css"/>
 <link rel="icon" sizes="any" href="{{ .Site.BaseURL }}/favicon.ico">
 <meta name="description" content="{{ .Description }}">
@@ -17,7 +16,7 @@
           $('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
          });
    </script>
-
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 </head>
 
 <body>
