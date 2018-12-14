@@ -6,10 +6,20 @@
     <description>Recent content on Nightscape</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 00:00:23 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 17:35:23 -0800</lastBuildDate>
     
 	<atom:link href="https://nihil.nyxus.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello Again</title>
+      <link>https://nihil.nyxus.xyz/posts/updates/</link>
+      <pubDate>Thu, 13 Dec 2018 17:35:23 -0800</pubDate>
+      
+      <guid>https://nihil.nyxus.xyz/posts/updates/</guid>
+      <description>We haven&amp;rsquo;t spoken in awhile.
+The second anniversary of Hello From the Wired is only a few days away, and just recently was given an amazing zine treatment by @spicegirlsinfo. The last time anything was written on cyber-nihilism was over a year ago now, and since then Ensorcel was taken down by nildicit, who felt that the project had reached its end. This has unfortunately broken a lot of links scattered throughout the Wired to the other two posts so far on cyber-nihilism, the [recap] and the [first Redux post].</description>
+    </item>
     
     <item>
       <title>Cyber-Nihilism Redux Pt. 0: What is Cyber-Nihilism?</title>
