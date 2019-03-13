@@ -11,4 +11,7 @@ It has been mentioned several times but not officially announced anywhere yet fo
 
 This makes having a sub-blog to NYXUS now rather pointless, but perhaps in due time this space will find more use other than for future announcements.
 
-For the sake of preserving against link rot, here is the first version of the zine edition of Hello From the Wired hosted on IPFS: https://ipfs.io/ipfs/QmVfPZsbMqQBoLHsKfsrzWcuN6fc6ssor5wsQwLrG6qB3K
+For the sake of preserving against link rot, here is the first version of the zine edition of Hello From the Wired hosted on IPFS at the following hash: QmVfPZsbMqQBoLHsKfsrzWcuN6fc6ssor5wsQwLrG6qB3K
+
+EDIT: Due to the IPFS gateway not consistently working, I have also uploaded the zine edition of Hello From the Wired to my git repo that contains all my other writings: https://gitlab.com/nyxysfall/writings/raw/master/nihil/hellofromthewired-zine.pdf?inline=false
+
