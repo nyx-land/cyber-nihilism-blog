@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://nihil.nyxus.xyz/</loc>
+    <lastmod>2018-12-13T17:35:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nihil.nyxus.xyz/posts/</loc>
+    <lastmod>2018-12-13T17:35:23-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nihil.nyxus.xyz/posts/cyber-nihilism-redux-pt-0/</loc>
     <lastmod>2017-10-26T00:00:23-07:00</lastmod>
   </url>
@@ -24,24 +34,10 @@
   
   <url>
     <loc>https://nihil.nyxus.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nihil.nyxus.xyz/</loc>
-    <lastmod>2018-12-13T17:35:23-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nihil.nyxus.xyz/posts/</loc>
-    <lastmod>2018-12-13T17:35:23-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nihil.nyxus.xyz/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
